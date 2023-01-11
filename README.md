@@ -5,3 +5,5 @@ De acordo com as instruções fornecidas, o objetivo desta atividade é proporci
 
 Escolheu-se a ODS 3 "Saúde e Bem Estar", visando a divulgação de informações sobre o HIV, que é um problema de saúde pública.
 Foi criado uma folha informativa sobre o HIV/Aids, reuniando informações e links de sites importantes e onfiáveis do Governo Brasileiro e da OMS, para concentrar e ser uma fonte de informações.
+
+Acesse: https://liviacarv.github.io/Site_FolhaInformativaHIV/.
